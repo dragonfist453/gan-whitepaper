@@ -2,4 +2,4 @@
 
 For the project implemented on the [GAN](https://github.com/dragonfist453/GAN) repository on this account. 
 
-Please open the pdf file in the repo to view the paper
+Please open the pdf file in the repo to view the paper. Bleh
